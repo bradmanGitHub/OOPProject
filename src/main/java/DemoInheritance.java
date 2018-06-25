@@ -4,7 +4,6 @@ public class DemoInheritance implements OnAddListener{
 	public static void main(String[] args) {
 		new DemoInheritance().start();
 		System.out.println("HANAGA");
-		//test add more comment
 	}
 	
 	private void start() {
