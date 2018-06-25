@@ -7,6 +7,7 @@ public class DemoInheritance implements OnAddListener{
 		//add row 1 comment
 		//add row 2 comment (local)
 		//add row 3 on local66
+		//test remote modify
 	}
 	
 	private void start() {
