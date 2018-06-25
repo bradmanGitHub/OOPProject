@@ -5,7 +5,8 @@ public class DemoInheritance implements OnAddListener{
 		new DemoInheritance().start();
 		System.out.println("HANAGA");
 		//add row 1 comment
-		//add row 2 comment
+		//add row 2 comment (remote)
+		//add row 3 comment on remote
 	}
 	
 	private void start() {
